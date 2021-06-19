@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804162982462",
+    "firebase_url": "https://covid-19-arunachal-pradesh.firebaseio.com",
+    "project_id": "covid-19-arunachal-pradesh",
+    "storage_bucket": "covid-19-arunachal-pradesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804162982462:android:ade80f62ce4ebe19fd776f",
+        "android_client_info": {
+          "package_name": "com.amar.covid19arunachalpradesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804162982462-sk8srv7sfe3j2cpdbh4u2n5oj0deetad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amar.covid19arunachalpradesh",
+            "certificate_hash": "d48f7fe48ba236f02a56e46cd5790f47f3c775c7"
+          }
+        },
+        {
+          "client_id": "804162982462-oc3qct4sod7vipfvl6h30q3a1hc1sakd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgDNVeLLrIQt1SUxuWED7KcunExQpViOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804162982462-oc3qct4sod7vipfvl6h30q3a1hc1sakd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
